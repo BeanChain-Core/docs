@@ -80,7 +80,7 @@ From the root of the repo:
 java -jar wiz-suite-v0.jar
 ```
 
-Youâll see:
+Youll see:
 1. Generate new Wiz Key
 2. Exit
 
@@ -103,7 +103,7 @@ Edit:
 config.docs/beanchain.config.properties
 ```
 
-> â ï¸ Do **not** move or rename this file.
+> Do **not** move or rename this file.
 
 Update only:
 
@@ -132,8 +132,8 @@ target/BeanNode-v0.0.2.jar
 
 ```
 MyNode/
-âââ BeanNode-v0.0.2.jar
-âââ config.docs/
+ BeanNode-v0.0.2.jar
+ config.docs/
 ```
 
 ### Option 2: Move JAR to the root of the repo
