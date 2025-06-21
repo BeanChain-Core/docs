@@ -110,6 +110,7 @@ Update only:
 ```properties
 networkport=6442    # Port your node listens on for network sync (forward this if possible)
 is.public=true      # true = exposes public API (requires port forwarding 8080), false = private/headless
+privateKeyPath=./config.docs/wiz.txt (THIS IS THE RELATIVE PATH TO WIZ KEY, may need to change to the full path to your file on certain VM's or systems)
 ```
 
 ---
